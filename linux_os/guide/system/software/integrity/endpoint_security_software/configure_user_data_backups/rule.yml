@@ -16,6 +16,9 @@ rationale: |-
 
 severity: medium
 
+identifiers:
+    cce@rhel9: CCE-86498-3
+
 ocil_clause: 'it is not'
 
 ocil: 'Verify that the system backups user data.'
